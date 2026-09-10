@@ -37,7 +37,7 @@ class MyHomePage extends StatelessWidget {
       ),
       body: Center(
         child: Column(mainAxisAlignment:MainAxisAlignment.center, children: [
-          Text('First Flutter App',
+          Text("Flutter App",
           style: TextStyle(
             fontSize: 26,
             fontWeight: FontWeight.bold,
